@@ -4,7 +4,7 @@ This Just A Repistory for scripts webiste lol i might add code here for some scr
 
 #So This is A Respisetory For the scripts website nothin much i might add scripts code into here tho
 
-  my fav scripts to use i guess
+  my fav scripts to use i guess (all work on fluxus)
 MSHUB For Doors And Build A Boat:
   ```lua
    loadstring(game:HttpGet(("https://raw.githubusercontent.com/mstudio45/MSDOORS/main/MSHUB_Loader.lua"),true))()
@@ -22,3 +22,4 @@ Bloxburg Auto Pizza Delivery(EDITABLE):
 }
 loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/PPInMyPants'))()
  ```
+
